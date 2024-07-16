@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#80CAF698</color>
+    <color name="custom_spinner_text_color">#FFFFFF</color>
+        <color name="button_green">#00FF00</color>
+        <color name="button_red">#FF0000</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="orange">#B4FE8136</color>
+
+
+
+</resources>
